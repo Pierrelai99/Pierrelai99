@@ -38,8 +38,10 @@ I'm a passionate **full-stack developer** with experience in building both web a
 
 ### 📽️ Project Demo Video
 
-Check out the demo of my Food Ordering AI website here:  
-👉 [Watch on YouTube](https://youtu.be/your_video_id)
+1. Blockchain solidity with time (website):  
+👉 [Watch on YouTube](https://youtu.be/b3L_7wJsqUo)
+2. Full web app food ordering with AI recommendation:  
+👉 [Watch on YouTube](https://youtube.com/shorts/EDllAc1TLgo?si=lPTEGdID2jyrLc5r)
 
 ---
 

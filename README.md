@@ -34,6 +34,12 @@ I'm a passionate **full-stack developer** with experience in building both web a
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
+---
+
+### 📽️ Project Demo Video
+
+Check out the demo of my Food Ordering AI website here:  
+👉 [Watch on YouTube](https://youtu.be/your_video_id)
 
 ---
 

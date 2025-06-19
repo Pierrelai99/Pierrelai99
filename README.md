@@ -64,7 +64,7 @@ I'm a passionate **full-stack developer** with experience in building both web a
 
 - Full-stack web or mobile projects  
 - AI/NLP or blockchain-based ideas  
-- Open-source tools for Malaysian tech users
+
 
 ---
 
